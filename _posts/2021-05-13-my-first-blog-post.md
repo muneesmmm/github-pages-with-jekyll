@@ -1,4 +1,4 @@
 ---
-title :"my-first-blog-post"
-date :2021-05-13
+title: "my-first-blog-post"
+date: 2021-05-13
 ---
